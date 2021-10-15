@@ -1,4 +1,4 @@
-# CycleGan-VC2 with oneflow
+# CycleGAN-VC2 with oneflow
 
 Implementation of [CycleGan-VC2](https://arxiv.org/abs/1904.04631) with Oneflow.
 
